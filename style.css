@@ -261,3 +261,114 @@ opacity: 1;
 .rightouterpara{
     margin-top: 12px;
 }
+
+/* 4th section css end */
+
+.fivth_heading{
+    margin-top: 189px;
+    margin-left: 456px;
+    width: 368px;
+height: 47px;
+text-align: left;
+font: normal normal bold 18px Nunito Sans;
+letter-spacing: 0px;
+color: #000000;
+}
+
+.fifth_main_card{
+    margin-left: 59px;
+    margin-top: 76px;
+    width: 1097px;
+height: 363px;
+background: #F8FAFC 0% 0% no-repeat padding-box;
+box-shadow: 0px 16px 48px #00000029;
+border-radius: 42px;
+opacity: 1;
+}
+.fifth_flex img{
+    width: 64px;
+    height: 63px;
+    margin-left: 102px;
+    margin-top: 39px;
+}
+.fifth_flex h1{
+    margin-left: 13px;
+    margin-top: 53px;
+    width: 275px;
+    height: 34px;
+    font-size: 20px;
+}
+.main_card{
+    margin-left: 50px;
+    margin-top: 64px;
+}
+.card1{
+    width: 285px;
+height: 263px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 16px 48px #00000029;
+border-radius: 30px;
+opacity: 1;
+}
+
+.starwithman{
+    margin-top: 28px;
+    margin-left: 31px;
+    width: 42px;
+    height: 43px;
+}
+.star{
+    width: 14px;
+    height: 14px;
+    margin-top: 38px;
+}
+.card1>p{
+    margin-top: 31px;
+    /* padding: 10px; */
+    margin-left: 27px;
+    margin-bottom: 35px;
+    margin-right: 21px;
+    font: normal normal normal 13px/18px Nunito Sans;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+/* 5th section css end */
+
+.fourth_main_{
+    margin-top: 298px;
+    margin-left: 196px;
+    width: 888px;
+    height: 47px;
+    text-align: left;
+font: normal normal bold 18px/45px Nunito Sans;
+color: #000000;
+}
+.raingers{
+    margin-left: 188px;
+    margin-top: 150px;
+    display: flex;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.darling img{
+    width: 185px;
+    height: 58px;
+}
+.darling{
+    margin: 60px;
+}
+.footer{
+    margin-top: 189px;
+    width: 1280px;
+height: 369px;
+background: #000000 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+.footer>p{
+    font-size: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 288px;
+}

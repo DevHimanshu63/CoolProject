@@ -4,6 +4,7 @@
     margin: 0px;
 }
 body{
+    overflow-x: hidden;
     max-width: 1280px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
 opacity: 1;
@@ -196,4 +197,67 @@ opacity: 1;
     text-align: left;
 font: normal normal bold 18px/45px Nunito Sans;
 color: #000000;
+}
+
+.alignmemt_started{
+    margin-left: 105px;
+    margin-top: 86px;
+}
+.left_align h1{
+    margin-left: 39px;
+    margin-top: 26px;
+    width: 252px;
+    height: 32px;
+    text-align: left;
+font: normal normal bold 24px/32px Nunito Sans;
+letter-spacing: 0px;
+color: #000000;
+font-size: 24px;
+}
+.outerpara{
+    width: 644px;
+    height: 56px;
+    margin: 14px;
+    letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+    font: normal normal normal 18px/28px Nunito Sans;
+}
+
+.button2{
+    margin-top: 22px;
+    width: 247px;
+    font-size: 23px ;
+    padding: 17px 50px 17px 50px;
+    height: 65;
+    text-align: left;
+    font: normal normal 600 23px/31px Nunito Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    background: #1492E6 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 48px #00000029;
+    border-radius: 33px;
+    opacity: 1;
+}
+
+#main_rightalign{
+    margin-left: 747px;
+    margin-right: 62px;
+}
+.right_align img{
+    width: 62px;
+    height: 62px;
+    /* background: transparent url('rightalign.png') 0% 0% no-repeat padding-box; */
+}
+.right_align h1{
+    text-align: left;
+    font: normal normal bold 24px/32px Nunito Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    font-size: 24px;
+    margin-top: 15px;
+    margin-left: 39px;
+}
+.rightouterpara{
+    margin-top: 12px;
 }

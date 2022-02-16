@@ -126,6 +126,7 @@ opacity: 1;
 margin-left: 40px;
 
 }
+
 .second_heading{
     margin-top: 38px;
     width: 190px;
@@ -324,8 +325,8 @@ opacity: 1;
 }
 .card1>p{
     margin-top: 31px;
-    /* padding: 10px; */
-    margin-left: 27px;
+    padding: 2px;
+    margin-left: 10px;
     margin-bottom: 35px;
     margin-right: 21px;
     font: normal normal normal 13px/18px Nunito Sans;

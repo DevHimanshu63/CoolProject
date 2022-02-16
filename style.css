@@ -1,0 +1,43 @@
+*{
+  padding: 0px;
+  box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    max-width: 1280px;
+    background-color: aquamarine;
+}
+.ul_list{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    width: 47px;
+    height: 26px;
+    font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.navli{
+    margin-left: 55px;
+    width: 47px;
+    height: 26px;
+    font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.logo img{
+margin-top: 31px;
+margin-left: 558px;
+}
+nav ul{
+    width: 781px;
+    height: 26px;
+    background-color: bisque;
+    margin-left: 249px;
+    margin-top: 30px;
+    
+}

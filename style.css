@@ -187,3 +187,13 @@ opacity: 1;
 }
 
 /* third css has been ended */
+
+.fourth_main_heading{
+    margin-top: 138px;
+    margin-left: 196px;
+    width: 888px;
+    height: 47px;
+    text-align: left;
+font: normal normal bold 18px/45px Nunito Sans;
+color: #000000;
+}

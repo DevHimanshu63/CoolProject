@@ -5,6 +5,8 @@
 }
 body{
     max-width: 1280px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
     /* background-color: aquamarine; */
 }
 .ul_list{
@@ -85,13 +87,103 @@ margin-left: 65px;
     width: 247px;
     font-size: 23px ;
     padding: 17px 50px 17px 50px;
-height: 65;
-text-align: left;
-font: normal normal 600 23px/31px Nunito Sans;
+    height: 65;
+    text-align: left;
+    font: normal normal 600 23px/31px Nunito Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    background: #1492E6 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 48px #00000029;
+    border-radius: 33px;
+    opacity: 1;
+}
+
+.heading_of_secondsection{
+    width: 888px;
+    height: 47px;
+
+    text-align: left;
+    margin-left: 196px;
+    margin-top: 204px;
+    font: normal normal bold 35px/47px Nunito Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.container{
+    display: flex;
+    margin-left: 138px;
+    margin-top: 60px;
+}
+.card1{
+    width: 308px;
+height: 320px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 18px;
+opacity: 1;
+margin-left: 40px;
+
+}
+.second_heading{
+    margin-top: 38px;
+    width: 190px;
+    height: 24px;
+    font-size: 18px;
+    margin-left: 59px;
+}
+.second_para {
+    margin-left: 19px;
+    margin-top: 18px;
+    width: 275px;
+    height: 192px;
+}
+
+/* second section css end here */
+.third_section{
+    background: #F8FAFC 0% 0% no-repeat padding-box;
+}
+.third_main_heading{
+    margin-top: 186px;
+    margin-left: 196px;
+    text-align: left;
+font: normal normal bold 20px/45px Nunito Sans;
+color: #000000;
+}
+.third_container{
+    display: flex;
+    margin-top: 111px;
+    margin-left: 113px;
+}
+
+/* .small_container img{
+    width: 187px;
+    height: 181px;
+
+} */
+.small_container{
+    margin: 35px;
+}
+.small_container h1{
+    width: 190px;
+    height: 24px;
+    text-align: center;
+font: normal normal bold 18px/24px Nunito Sans;
 letter-spacing: 0px;
-color: #FFFFFF;
-background: #1492E6 0% 0% no-repeat padding-box;
-box-shadow: 0px 16px 48px #00000029;
-border-radius: 33px;
+color: #000000;
+opacity: 1;
+margin-top: 41px;
+font-size: 18px;
+}
+.small_container p{
+ margin-top: 16px;
+width: 328px;
+height: 168px;
+/* text-align: left; */
+font: normal normal normal 18px/24px Nunito Sans;
+letter-spacing: 0px;
+color: #000000;
 opacity: 1;
 }
+
+/* third css has been ended */

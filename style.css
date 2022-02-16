@@ -36,7 +36,7 @@ margin-left: 558px;
 nav ul{
     width: 781px;
     height: 26px;
-    background-color: bisque;
+    /* background-color: bisque; */
     margin-left: 249px;
     margin-top: 30px;
     
@@ -48,6 +48,7 @@ height: 3px;
 border: 1px solid #707070;
 opacity: 1;
 margin-top: 16px;
+background-color: #707070;
 }
 .first_section{
     margin-left: 121px;
